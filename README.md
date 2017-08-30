@@ -1,1 +1,1 @@
-# panorama-and-360-android
+パノラマ画像と360度画像のAndroidビューワ　サンプルアプリ
